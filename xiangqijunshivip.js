@@ -11,7 +11,7 @@
 > Suitable          自行观看“# > ”注释内容，解锁是暂时的，购买也不是永久的[订阅、跑路]
 > Attention         如需引用请注明出处，谢谢合作！
 > Attention         使用此脚本，会导致AppleStore无法切换账户，解决方法[关闭QX切换账户，或关闭MITM，或删除脚本，或去设置媒体与购买项目处切换ID]
-> ScriptURL         https://github.com/Echoxiawan/ddgksf2013/blob/main/xiangqijunshivip.js
+> ScriptURL         https://raw.githubusercontent.com/Echoxiawan/ddgksf2013/main/xiangqijunshivip.js
 
 # ========解锁列表======== #
 Cuttlefishの果果包 
@@ -21,8 +21,7 @@ https://appraven.net/collection/77331175
 [rewrite_local]
 
 # ～ BuyiTunes@ddgksf2013
-^https?:\/\/buy\.itunes\.apple\.com\/verifyReceipt$ url script-response-body https://github.com/Echoxiawan/ddgksf2013/blob/main/xiangqijunshivip.js
-
+^https?:\/\/buy\.itunes\.apple\.com\/verifyReceipt$ url script-response-body https://raw.githubusercontent.com/Echoxiawan/ddgksf2013/main/xiangqijunshivip.js
 [mitm]
 
 hostname = buy.itunes.apple.com
