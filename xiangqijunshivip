@@ -21,7 +21,7 @@ https://appraven.net/collection/77331175
 [rewrite_local]
 
 # ～ BuyiTunes@ddgksf2013
-^https?:\/\/buy\.itunes\.apple\.com\/verifyReceipt$ url script-response-body https://gist.githubusercontent.com/ddgksf2013/9e0f6c7341beea09a31aa309d9d7f502/raw/buyitunes.js
+^https?:\/\/buy\.itunes\.apple\.com\/verifyReceipt$ url script-response-body https://github.com/Echoxiawan/ddgksf2013/blob/main/xiangqijunshivip.js
 
 [mitm]
 
