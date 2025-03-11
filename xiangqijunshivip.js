@@ -51,7 +51,7 @@ var ddgksf2013 = {
 		"original_application_version": "1.4",
 		"in_app": [{
 			"quantity": "1",
-			"product_id": "com.chinesechess.aict7.nonRenewingPurchaseWeekly",
+			"product_id": "com.chinesechess.aict1.nonRenewingPurchaseWeekly",
 			"transaction_id": "1230000032060481",
 			"original_transaction_id": "1230000032060481",
 			"purchase_date": "2024-04-19 11:49:48 Etc/GMT",
@@ -67,7 +67,7 @@ var ddgksf2013 = {
 	"environment": "Production",
 	"latest_receipt_info": [{
 		"quantity": "1",
-		"product_id": "com.chinesechess.aict7.nonRenewingPurchaseWeekly",
+		"product_id": "com.chinesechess.aict1.nonRenewingPurchaseWeekly",
 		"transaction_id": "1230000032060481",
 		"original_transaction_id": "1230000032060481",
 		"purchase_date": "2024-04-19 11:49:48 Etc/GMT",
